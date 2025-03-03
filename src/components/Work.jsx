@@ -20,7 +20,7 @@ const Work = () => {
                     <div style={{ backgroundImage: `url(${Auto})` }}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         <div className='opacity-0 group-hover:opacity-100'>
-                            <span className='text-2xl ffont-bold text-white tracking-wider'>
+                            <span className='text-xl sm:text-2xl font-bold text-white tracking-wider'>
                                 React JS Application
                             </span>
                             <div className='pt-8 text-center'>
@@ -36,7 +36,7 @@ const Work = () => {
                     <div style={{ backgroundImage: `url(${Travel})` }}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         <div className='opacity-0 group-hover:opacity-100'>
-                            <span className='text-2xl ffont-bold text-white tracking-wider'>
+                            <span className='text-xl sm:text-2xl font-bold text-white tracking-wider'>
                                 React JS Landing Page
                             </span>
                             <div className='pt-8 text-center'>
@@ -54,7 +54,7 @@ const Work = () => {
                     <div style={{ backgroundImage: `url(${Cookbook})` }}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         <div className='opacity-0 group-hover:opacity-100'>
-                            <span className='text-2xl ffont-bold text-white tracking-wider'>
+                            <span className='text-xl sm:text-2xl font-bold text-white tracking-wider'>
                                 Vue JS Application
                             </span>
                             <div className='pt-8 text-center'>
@@ -71,7 +71,7 @@ const Work = () => {
                     <div style={{ backgroundImage: `url(${Zvone})` }}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         <div className='opacity-0 group-hover:opacity-100'>
-                            <span className='text-2xl ffont-bold text-white tracking-wider'>
+                            <span className='text-xl sm:text-2xl font-bold text-white tracking-wider'>
                                 React JS Landing Page
                             </span>
                             <div className='pt-8 text-center'>
@@ -89,7 +89,7 @@ const Work = () => {
                     <div style={{ backgroundImage: `url(${South})` }}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         <div className='opacity-0 group-hover:opacity-100'>
-                            <span className='text-2xl ffont-bold text-white tracking-wider'>
+                            <span className='text-xl sm:text-2xl font-bold text-white tracking-wider'>
                                 WebFlow E-commerce
                             </span>
                             <div className='pt-8 text-center'>
@@ -103,7 +103,7 @@ const Work = () => {
                     <div style={{ backgroundImage: `url(${Expense})` }}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         <div className='opacity-0 group-hover:opacity-100'>
-                            <span className='text-2xl ffont-bold text-white tracking-wider'>
+                            <span className='text-xl sm:text-2xl font-bold text-white tracking-wider'>
                                 ASP.NET Application
                             </span>
                             <div className='pt-8 text-center'>
@@ -118,8 +118,8 @@ const Work = () => {
                         <div style={{ backgroundImage: `url(${Fusion})` }}
                             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                             <div className='opacity-0 group-hover:opacity-100'>
-                                <span className='text-2xl ffont-bold text-white tracking-wider'>
-                                    Next.js Video Conference App
+                                <span className='text-xl sm:text-2xl font-bold text-white tracking-wider'>
+                                    Next.js Video Conference WebApp
                                 </span>
                                 <div className='pt-8 text-center'>
                                     <a href='https://fusionroom.vercel.app/'
