@@ -3,7 +3,7 @@ import {FaBars, FaTimes, FaGithub,FaLinkedin} from 'react-icons/fa'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
 import logo from "../assets/logo.png"
 import {Link} from 'react-scroll'
-import Resume from '../assets/dl 4.0 eng.pdf'
+import Resume from '../assets/Dimitar Lazarov-CV.pdf'
 
 const Navbar = () => {
     const [nav, setNav] = useState(false);
